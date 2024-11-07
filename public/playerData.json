@@ -1,0 +1,174 @@
+[
+      {
+        "playerId": 1,
+        "playerPhoto": "https://i.ibb.co.com/JqQ965S/tamim-iqbal.jpg",
+        "playerName": "Tamim Iqbal",
+        "country": "Bangladesh",
+        "rating": 8.2,
+        "leftHandBat": true,
+        "rightHandBat": false,
+        "allRounder" : false,
+        "price": 900000
+      },
+      {
+        "playerId": 2,
+        "playerPhoto": "https://i.ibb.co.com/C8JnzHY/Ben-Stokes.jpg",
+        "playerName": "Ben Stokes",
+        "country": "England",
+        "rating": 8.8,
+        "leftHandBat": true,
+        "rightHandBat": false,
+        "allRounder" : true,
+        "price": 1250000
+      },
+      {
+        "playerId": 3,
+        "playerPhoto": "https://i.ibb.co.com/1rdpPnT/Babar-Azam.jpg",
+        "playerName": "Babar Azam",
+        "country": "Pakistan",
+        "rating": 9.0,
+        "leftHandBat": false,
+        "rightHandBat": true,
+        "allRounder" : false,
+        "price": 1400000
+      },
+      {
+        "playerId": 4,
+        "playerPhoto": "https://i.ibb.co.com/VV5tzPH/rashid-khan.jpg",
+        "playerName": "Rashid Khan",
+        "country": "Afghanistan",
+        "rating": 8.7,
+        "allRounder" : true,
+        "leftHandBat": false,
+        "rightHandBat": true,
+        "price": 1000000
+      },
+      {
+        "playerId": 5,
+        "playerPhoto": "https://i.ibb.co.com/tsk8cds/david-warner.jpg",
+        "playerName": "David Warner",
+        "country": "Australia",
+        "rating": 8.9,
+        "allRounder" : false,
+        "leftHandBat": true,
+        "rightHandBat": false,
+        "price": 1350000
+      },
+      {
+        "playerId": 6,
+        "playerPhoto": "https://i.ibb.co.com/GVDbjGk/kane-williamson.jpg",
+        "playerName": "Kane Williamson",
+        "country": "New Zealand",
+        "rating": 8.5,
+        "allRounder" : false,
+        "rightHandBat": true,
+        "leftHandBat": false,
+        "price": 1300000
+      },
+      {
+        "playerId": 7,
+        "playerPhoto": "https://i.ibb.co.com/YDFMcCz/jsaon-holder.jpg",
+        "playerName": "Jason Holder",
+        "country": "West Indies",
+        "rating": 8.3,
+        "allRounder" : true,
+        "rightHandBat": true,
+        "leftHandBat": false,
+        "price": 1100000
+      },
+      {
+        "playerId": 8,
+        "playerPhoto": "https://i.ibb.co.com/1d0DmFX/shaheen-shah-afridi.jpg",
+        "playerName": "Shaheen Afridi",
+        "country": "Pakistan",
+        "rating": 8.6,
+        "allRounder" : false,
+        "leftHandBat": true,
+        "rightHandBat": false,
+        "price": 1050000
+      },
+      {
+        "playerId": 9,
+        "playerPhoto": "https://i.ibb.co.com/0XPCbsF/steve-smith.jpg",
+        "playerName": "Steve Smith",
+        "country": "Australia",
+        "rating": 9.1,
+        "allRounder" : false,
+        "rightHandBat": true,
+        "leftHandBat": false,
+        "price": 1500000
+      },
+      {
+        "playerId": 10,
+        "playerPhoto": "https://i.ibb.co.com/FD1NcWL/Quinton-de-Kock.jpg",
+        "playerName": "Quinton de Kock",
+        "country": "South Africa",
+        "skills": {
+          "wicketKeeping": true
+        },
+        "rating": 8.7,
+        "allRounder" : false,
+        "leftHandBat": true,
+        "rightHandBat": false,
+        "price": 1250000
+      },
+      {
+        "playerId": 11,
+        "playerPhoto": "https://i.ibb.co.com/tBYsvHn/Shakib-Al-Hasan.jpg",
+        "playerName": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "rating": 8.9,
+        "leftHandBat": true,
+        "rightHandBat": false,
+        "allRounder" : true,
+        "price": 1300000
+      },
+      {
+        "playerId": 12,
+        "playerPhoto": "https://i.ibb.co.com/QvM1qP9/Jos-Buttler.jpg",
+        "playerName": "Jos Buttler",
+        "country": "England",
+        "skills": {
+          "wicketKeeping": true
+        },
+        "rating": 8.6,
+        "allRounder" : false,
+        "leftHandBat": false,
+        "rightHandBat": true,
+        "price": 1350000
+      },
+      {
+        "playerId": 13,
+        "playerPhoto": "https://i.ibb.co.com/pw44x6H/Kagiso-Rabada.jpg",
+        "playerName": "Kagiso Rabada",
+        "country": "South Africa",
+        "rating": 8.9,
+        "allRounder" : false,
+        "leftHandBat": false,
+        "rightHandBat": true,
+        "price": 1200000
+      },
+      {
+        "playerId": 14,
+        "playerPhoto": "https://i.ibb.co.com/NyBRV37/Glenn-Maxwell.jpg",
+        "playerName": "Glenn Maxwell",
+        "country": "Australia",
+        "rating": 8.5,
+        "allRounder" : false,
+        "leftHandBat": false,
+        "rightHandBat": true,
+        "price": 1100000
+      },
+      {
+        "playerId": 15,
+        "playerPhoto": "https://i.ibb.co.com/HPpXhSt/Trent-Boult.jpg",
+        "playerName": "Trent Boult",
+        "country": "New Zealand",
+        "rating": 8.4,
+        "allRounder" : false,
+        "leftHandBat": true,
+        "rightHandBat": false,
+        "price": 950000
+      }
+]
+  
